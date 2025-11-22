@@ -10,6 +10,7 @@
 <br />
 
 **CryptoPulse** 是一款聚合型实时加密货币行情情报助手。它支持 **多模型直连 (Direct API Connect)**，允许用户根据偏好选择 Google Gemini、DeepSeek、OpenAI (ChatGPT)、Grok 或通义千问作为底层分析引擎。
+<img width="2880" height="2072" alt="screencapture-localhost-3000-2025-11-22-21_31_10" src="https://github.com/user-attachments/assets/bc103128-30c8-4a8f-95b4-34340066d57e" />
 
 ## ✨ 核心功能
 
