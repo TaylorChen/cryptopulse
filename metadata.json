@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPulse",
+  "description": "A real-time crypto market intelligence assistant using Gemini AI to analyze news, on-chain data, and provide investment insights.",
+  "requestFramePermissions": []
+}
